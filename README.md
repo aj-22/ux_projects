@@ -4,6 +4,7 @@ Work Samples of my User Experience Design and Research Explorations
 Combining these with Business Analysis Reports as well
 
 File Structure
+```
 ux_projects/
 ├── analysis_reports/
 │   ├── Amazon_Principles # Retake at Existing Amazon Principles
@@ -16,3 +17,4 @@ ux_projects/
     ├── Capstone/
     └── fraudwatch/
     
+```
